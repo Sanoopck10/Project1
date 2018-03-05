@@ -6,4 +6,6 @@ void main(){
 	scanf("%d",&n);
 
 	printf("its square is %d",n*n);
+
+ //wazzup? 
 }
