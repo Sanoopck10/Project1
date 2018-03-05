@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 void main(){
 
@@ -8,4 +9,6 @@ void main(){
 	printf("its square is %d",n*n);
 
  //wazzup? 
+
+//whats your problem man.
 }
